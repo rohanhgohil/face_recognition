@@ -15,7 +15,7 @@ pip install face-recognition opencv-python numpy
 - Place the program in a directory and create a photos folder within the same directory.
 - Add images of the known individuals (Thalapathy Vijay, Tony Stark, and Elon Musk) to the photos folder. Make sure the image file names match those specified in the program.
 - Run the Python script.
-- 
+  
 ### Important Notes:
 - The program uses a pre-trained deep learning model from the face_recognition library to generate face encodings for the known individuals. Ensure that the images of the known individuals are clear and recognizable to improve recognition accuracy.
 - The program reduces the size of the captured video frame by a factor of 4 to speed up face recognition processing. This may slightly reduce the recognition accuracy but significantly improves the performance.
