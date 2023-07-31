@@ -3,9 +3,9 @@
 
 ### Requirements:
 - To run this program, you need to have the following libraries installed:
-face_recognition
-cv2 (OpenCV)
-numpy
+[ face_recognition, 
+cv2 (OpenCV),
+numpy ]
 - You can install these libraries using pip:
 ```
 pip install face-recognition opencv-python numpy
